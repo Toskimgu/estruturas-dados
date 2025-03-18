@@ -1,6 +1,5 @@
 ## 2. Definição e Importância das Estruturas de Dados no Desenvolvimento de Programas
 
-# Definição e Importância das Estruturas de Dados no Desenvolvimento de Programas
 
 ## Estruturas de Dados Lineares vs. Não Lineares
 
