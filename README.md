@@ -50,3 +50,5 @@ https://docs.github.com/en/actions
 https://docs.python.org/3/tutorial/datastructures.html
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+dentre outras informações tiradas do livro estrutura de dados da alura.
