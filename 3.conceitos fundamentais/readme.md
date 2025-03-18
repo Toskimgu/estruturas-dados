@@ -1,6 +1,6 @@
 ## 3. Conceitos Fundamentais: Variáveis, Tipos de Dados e Alocação de Memória
 
-# Conceitos Fundamentais: Variáveis, Tipos de Dados e Alocação de Memória
+
 
 ## Variáveis e Tipos de Dados
 
