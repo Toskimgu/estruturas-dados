@@ -31,6 +31,5 @@ A **alocação de memória** é o processo de reservar espaço na memória para 
   
 - **Alocação Dinâmica**: O tamanho da estrutura de dados é determinado durante a execução do programa, permitindo que ela cresça ou encolha conforme necessário. Exemplos típicos incluem listas e objetos em linguagens como Python, ou o uso de ponteiros em C/C++.
 
-Nos exemplos a seguir, veremos a diferença entre esses dois tipos de alocação.
 
 
