@@ -2,4 +2,4 @@
 
 ### Alocação Estática vs. Dinâmica
 - **Estática:** Definida em tempo de compilação.
-  - **Dinâmica:** Definida em tempo de execução.
+- **Dinâmica:** Definida em tempo de execução.
