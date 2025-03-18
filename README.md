@@ -36,7 +36,11 @@ Aproveite um exemplo de aplicação prática, como o gerenciador de tarefas usan
 
 6️⃣ Referências
 Aqui você encontra links úteis para aprofundar seu conhecimento sobre estruturas de dados. Incluímos tutoriais, documentações e outras fontes de aprendizado:
+
 https://git-scm.com/doc
+
 https://docs.github.com/en/actions
+
 https://docs.python.org/3/tutorial/datastructures.html
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
