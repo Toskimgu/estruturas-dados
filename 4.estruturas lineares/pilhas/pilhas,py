@@ -1,0 +1,20 @@
+# pilha.py
+class Pilha:
+    def __init__(self):
+        self.pilha = []
+
+    def empilhar(self, item):
+        self.pilha.append(item)  # Adiciona ao topo da pilha
+
+    def desempilhar(self):
+        return self.pilha.pop()  # Remove o topo da pilha
+
+    def topo(self):
+        return self.pilha[-1]  # Acessa o topo da pilha
+
+# Exemplo de uso
+minha_pilha = Pilha()
+minha_pilha.empilhar(10)
+minha_pilha.empilhar(20)
+print(minha_pilha.desempilhar())  # Saída: 20
+print(minha_pilha.topo())  # Saída: 10
