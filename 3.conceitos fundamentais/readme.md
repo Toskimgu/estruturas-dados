@@ -33,24 +33,4 @@ A **alocação de memória** é o processo de reservar espaço na memória para 
 
 Nos exemplos a seguir, veremos a diferença entre esses dois tipos de alocação.
 
----
 
-#### **2. Pasta `Alocação-Estática`**
-
-##### **Arquivo `readme.md` - Alocação Estática**
-
-```markdown
-# Alocação Estática de Memória
-
-A **alocação estática** ocorre quando o espaço de memória é reservado durante a compilação, ou seja, antes da execução do programa. O tamanho da memória é fixo e não pode ser alterado após a compilação.
-
-Essa abordagem é mais simples e rápida, mas pode ser ineficiente quando não sabemos a quantidade exata de dados que precisaremos.
-
-### Exemplos de Alocação Estática
-
-- **Arrays**: Arrays de tamanho fixo são um exemplo típico de alocação estática. Em muitas linguagens de programação, como C, o tamanho de um array é determinado no momento da criação e não pode ser alterado durante a execução.
-
-Em Python, uma forma de "alocação estática" seria usar listas com um número fixo de elementos.
-
-### Exemplos de código
-Vamos ver um exemplo de alocação estática com um array de tamanho fixo.
